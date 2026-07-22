@@ -1,0 +1,6 @@
+{
+  "name": "AgriBridge",
+  "description": "A farm-to-table marketplace app connecting farmers directly with buyers, featuring an AI-assisted fair-pricing engine, citizenship verification, and bilingual English-Nepali support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
