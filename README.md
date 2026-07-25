@@ -1,6 +1,8 @@
 # AgriBridge
 
 A farm-to-table marketplace connecting farmers directly with buyers. It helps in cutting out the disadvantaged middleman layers that leave farmers underpaid and buyers overcharged. Built for Kathmandu Valley, works on desktop and mobile, in English and Nepali.
+<br>
+Displayed below are the system view:
 
 <p align="center">
   <img src="screenshots/desktop_view.png" width="300"/>
