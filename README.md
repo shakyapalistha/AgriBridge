@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AgriBridge
 
-# Run and deploy your AI Studio app
+A farm-to-table marketplace connecting farmers directly with buyers. It helps in cutting out the disadvantaged middleman layers that leave farmers underpaid and buyers overcharged. Built for Kathmandu Valley, works on desktop and mobile, in English and Nepali.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/657c401c-d890-4fa5-9337-42330b282edd
+- **Marketplace** :farmers list produce, buyers order directly
+- **AI fair pricing** :LightGBM predicts fair prices from market data
+- **Delivery integration** :from farm to doorstep
+- **Two-way ratings** :for farmer and buyer implements trust on both sides
+- **Roles** — Buyer, Farmer and Admin 
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
